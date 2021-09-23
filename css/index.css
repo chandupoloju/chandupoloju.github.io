@@ -374,11 +374,15 @@ font-style: italic;
   .sectionContent {
     float: none;
     width: 100%;
+    text-align: center;
+
   }
 
   .sectionTitle {
     margin-left: -2px;
     font-size: 1.25em;
+    text-align: center;
+
   }
 
   .keySkills {
