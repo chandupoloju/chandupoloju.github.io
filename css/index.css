@@ -313,8 +313,19 @@ font-style: italic;
 
 @media all and (min-width: 602px) and (max-width: 800px) {
   #headshot {
-    display: none;
-  }
+
+    float: none;
+    width: 100%;
+    text-align: center;
+    }
+
+    #headshot img {
+      width: 20.5%;
+      height: auto;
+      -webkit-border-radius: 50px;
+      border-radius: 50px;
+    }
+    
 
   .keySkills {
     -moz-column-count: 2;
@@ -339,8 +350,18 @@ font-style: italic;
   }
 
   #headshot {
-    display: none;
+    float: none;
+    width: 100%;
+    text-align: center;  
   }
+
+    #headshot img {
+      width: 20.5%;
+      height: auto;
+      -webkit-border-radius: 50px;
+      border-radius: 100px;
+    }
+    
 
   #name,
   #contactDetails {
