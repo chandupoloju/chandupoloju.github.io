@@ -60,7 +60,6 @@ footer,
 header,
 hgroup,
 menu,
-nav,
 section,
 summary,
 time,
@@ -84,7 +83,6 @@ footer,
 header,
 hgroup,
 menu,
-nav,
 section {
   display: block;
 }
@@ -108,6 +106,23 @@ body {
 .clear {
   clear: both;
 }
+
+#navbar{
+  padding-top: 25px;
+  text-align: center;
+  color:  #cf8a05;
+}
+footer{
+  text-align: center;
+}
+
+#contact{
+  padding-bottom: 20px;
+  border-bottom: 2px solid #cf8a05;
+}
+#test1 {
+  display:none;
+  };
 
 #menu {
   position: fixed;
