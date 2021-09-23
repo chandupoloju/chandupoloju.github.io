@@ -1,3 +1,4 @@
 # chandu-poloju.github.io
 
-Personal profile created with HTML & CSS
+Mini-Portfolio created with HTML & CSS
+
